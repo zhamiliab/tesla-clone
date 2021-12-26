@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+![Screenshot 2021-12-26 141840](https://user-images.githubusercontent.com/61488305/147421269-dfb32a5c-e461-45eb-a36b-410b48243fb7.jpg)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -69,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![Screenshot 2021-12-26 141840](https://user-images.githubusercontent.com/61488305/147421269-dfb32a5c-e461-45eb-a36b-410b48243fb7.jpg)
+
